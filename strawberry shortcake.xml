@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+  <description>
+     Strawberry Shortcake Stacked Pancakes
+  </description>
+  <recipe>
+    <title>Strawberry Shortcake Pancakes</title>
+    <ingredient name="Whole Flour" amount="1 1/4" unit="cup"/>
+    <ingredient name="Coconut (Shreadded)" amount="1/2" unit="cup"/>
+    <ingredient name="Baking Powder" amount="1" unit="tablespoon"/>
+    <ingredient name="Baking Soda" amount="1/4" unit="teaspoon"/>
+    <ingredient name="Nutmeg" amount="1/4" unit="teaspoon"/>
+    <ingredient name="Allspice" amount="1/4" unit="teaspoon"/>
+    <ingredient name="Cinnamon" amount="-2" unit="pinch"/>
+    <ingredient name="Kosher Salt" amount="3/4" unit="cup"/>
+    <ingredient name="Coconut Milk" amount="1/2" unit="teaspoon"/>
+    <ingredient name="Vanilla Extract" amount="1/2" unit="teaspoon"/>
+    <ingredient name="Maple Syrup" amount="1" unit="tablespoon"/>
+    <ingredient name="Warm Water" amount="3/4" unit="cup"/>
+    <ingredient name="Oil" amount="1" unit="teaspoon"/>
+    <ingredient name="Strawberry Banana Soft Serve" amount="3 strawberry + 1 frozen banana" unit="whole"/>
+
+    <preparation>
+      <li>Preheat oven to 250F and grab a baking sheet. Whisk the dry ingredients (flour, coconut, baking soda, baking powder, spices, and salt) in a medium sized bowl. In a small bowl, whisk together the wet ingredients (coconut milk, warm water, vanilla, maple syrup) and then add to the dry ingredients. Whisk well until no clumps remain.</li>
+      <li>Preheat the skillet over medium heat and add some oil on the pan. Pour 1/4 cup of batter, per pancake, onto the skillet and quickly smooth out a circle with the back of a spoon. Cook until small bubbles appear on the surface and the bottoms of pancakes are golden. Reduce heat if necessary (I cook them on heat # ‘3’). Transfer to baking sheet and place in the oven to keep warm.</li>
+      <li>Meanwhile, slice about 20 strawberries. I also made Strawberry Banana soft serve by processing a frozen banana with a few strawberries to make the cream sauce. Once my pancakes were stacked, I scooped the strawberry banana soft serve on top. Drizzle with maple syrup and serve immediately. makes 8 small pancakes.</li>
+      
+    </preparation>
+    <comment>
+	pre make the mixture and save it for later
+    </comment>
+    <nutrition calories="210" fat="12" carbohydrates="24" protein="4"/>
+  </recipe>
+</collection>

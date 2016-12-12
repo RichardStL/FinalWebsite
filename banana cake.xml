@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+  <description>
+     Banana and Pineapple Cake
+  </description>
+  <recipe>
+    <title>Banana and Pineapple Cake</title>
+    <ingredient name="Plain Flour" amount="375" unit="g"/>
+    <ingredient name="Caster Sugar" amount="400" unit="g"/>
+    <ingredient name="Baking Soda" amount="1" unit="teaspoon"/>
+    <ingredient name="Cinnamon" amount="1" unit="teaspoon"/>
+    <ingredient name="Salt" amount="1" unit="teaspoon"/>
+    <ingredient name="Eggs" amount="3" unit="whole"/>
+    <ingredient name="Vegtable Oil" amount="250" unit="ml"/>
+    <ingredient name="Banana" amount="450" unit="g"/>
+    <ingredient name="Pineapple w/Juice" amount="432" unit="g"/>
+
+    <preparation>
+      <li>Preheat oven to 180 C / Gas 4. Grease and flour a 26cm tube cake tin.</li>
+      <li>In a large bowl, mix together the flour, sugar, bicarbonate of soda, cinnamon and salt. Make a well in the centre and pour in the eggs, oil, bananas and pineapple. Mix well and pour into prepared tin.</li>
+      <li>Bake in the preheated oven for 70 to 80 minutes or until a skewer inserted into the centre of the cake comes out clean. Let cool in tin for 10 minutes, then turn out onto a wire rack and cool completely.</li>
+    </preparation>
+    <comment>
+	use some powdered sugar to coat the top
+    </comment>
+    <nutrition calories="135" fat="3" carbohydrates="24" protein="2"/>
+  </recipe>
+</collection>
+http://allrecipes.co.uk/recipe/19334/banana-and-pineapple-cake.aspx?o_is=Hub_TopRecipe_4

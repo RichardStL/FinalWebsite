@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+  <description>
+     Delishous Spicy Coconut Noodles
+  </description>
+  <recipe>
+    <title>Spicy Coconut Noodles</title>
+    <ingredient name="Rice Noodles" amount="8" unit="oz"/>
+    <ingredient name="Coconut Milk" amount="13.5" unit="oz"/>
+    <ingredient name="Tomato Paste" amount="3" unit="tablespoon"/>
+    <ingredient name="Chilli Powder" amount="1" unit="teaspoon"/>
+    <ingredient name="Kosher Salt" amount="1" unit="teaspoon"/>
+    <ingredient name="Chili Paste" amount="1" unit="teaspoon"/>
+    <ingredient name="Scallions (Thinly Sliced)" amount="3" unit="whole"/>
+    <ingredient name="Bean Sprouts" amount="8" unit="oz"/>
+    <ingredient name="Basil Leaves" amount="16" unit="leaves"/>
+    <ingredient name="Coconut (Shreadded & Toasted)" amount="1/4" unit="cup"/>
+
+    <preparation>
+      <li>Cook the noodles according to the package directions. Drain and set aside.</li>
+      <li>Meanwhile, in a large saucepan, over medium-high heat, combine the coconut milk, tomato paste, chili powder, salt, and chili paste (if desired).</li>
+      <li>Bring to a boil, then reduce heat and simmer for 2 to 3 minutes.</li>
+      <li>Stir the drained noodles into the sauce and toss. Divide among individual bowls. Top with the scallions, sprouts, basil, and coconut (if desired).</li>
+     
+      
+    </preparation>
+    <comment>
+      Why not try adding some soy sauce
+    </comment>
+    <nutrition calories="315" fat="8" carbohydrates="28" protein="29"/>
+  </recipe>
+</collection>
+/*http://www.realsimple.com/food-recipes/browse-all-recipes/spicy-coconut-noodles*/

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+  <description>
+     Quick and Easy Flapjack Bars
+  </description>
+  <recipe>
+    <title>Vegan Flapjacks</title>
+    <ingredient name="Spaghetti" amount="453" unit="g"/>
+    <ingredient name="Garlic Cloves" amount="2" unit="cloves"/>
+    <ingredient name="Green Olives (Pitted)" amount="1/4" unit="cup"/>
+    <ingredient name="Parsely Leaves" amount="1/4" unit="cup"/>
+    <ingredient name="Basil Leaves" amount="1/4" unit="cup"/>
+    <ingredient name="Olive Oil" amount="1/4" unit="cup"/>
+    <ingredient name="Black Olives (Pitted)" amount="1/4" unit="cup"/>
+    <ingredient name="Kosher Salt" amount="1/4" unit="cup"/>
+
+    <preparation>
+      <li>Cook the spaghetti al dente, according to the package directions. Reserve ½ cup of the pasta water and drain.</li>
+      <li>Meanwhile, add the garlic, green olives, parsley, and basil to a food processor. With the motor running, slowly add the oil and process until fully incorporated.</li>
+      <li>In a large skillet, over medium heat, cook the olive pesto for 2 minutes.</li>
+      <li>Add the spaghetti, reserved pasta water, black olives, and salt and cook until the water is absorbed and the spaghetti is heated through.</li>
+      
+    </preparation>
+    <comment>
+      Add some extra vergin olive oil for some more flavour
+    </comment>
+    <nutrition calories="384" fat="25" carbohydrates="28" protein="11"/>
+  </recipe>
+</collection>

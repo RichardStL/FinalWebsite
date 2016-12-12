@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<link rel="icon" type="image/png" href="favicon.ico">
+		<title>Lettuce Eat</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="css/bootstrap.min.css" />
+		<link rel="stylesheet" href="css/style.css" />
+	</head>
+	<body>
+	<div class="navbar-fixed-top navbar-inverse" id="home">
+		<div class="container">
+			<div class="navbar-brand">
+				Lettuce Eat
+			</div>
+			<button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse">
+				Menu
+			</button>
+			<div class="collapse navbar-collapse navHeaderCollapse">
+				<ul class="nav navbar-nav navbar-right">
+					<li><a href="index.html">Home</a></li>
+					<li><a href="index.html">About</a></li>
+					<li><a href="index.html">Breakfast</a></li>
+					<li><a href="index.html">Lunch</a></li>
+					<li><a href="index.html">Dinner</a></li>
+					<li><a href="index.html">Drinks</a></li>
+					<li><a href="index.html">Portfolio</a></li>
+					<li><a href="index.html">Contact</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	
+	<div class="jumbotron">
+		<div class="container">
+		</div>
+	</div>
+	
+	
+	
+	<hr />
+		<div class="container" id="one">
+		<div class="row padding" id="one">
+			<div class="col-md-6">
+				<img src="soup.jpg" class="img-circle img-responsive" alt="Circular holding image"/>
+			</div>
+			<div class="col-md-6">
+				<h2 class="text-center">Lunch</h2>
+				<h2 class="text-center">Sweet potato soup</h2>
+				<h3 class="text-center"><br>List of ingredients</h3></br>
+				<li> Vegetable oil</li>
+				<li> 1 diced onion</li>
+				<li> Finely chopped Ggnger</li>
+				<li> Vegan thai red curry paste</li>
+				<li> Salt </li>
+				<li> Diced sweet potato</li>
+				<li> Coconut milk</li>
+				<li> Vegan stock </li>
+				<li> Lime</li>
+				<li> Coriander</li>
+				<h3 class="text-center">Preparation</h3>
+				
+				<p><li>In a large, heavy-based saucepan, heat the oil over a medium–high heat. Add the onion and ginger and cook, stirring, for about 5 minutes or until soft. </li></p>
+				<p><li>Add the curry paste and salt and cook, stirring, for a further minute or so. Add the sweet potatoes, coconut milk and stock and bring to the boil. Reduce the heat to medium and simmer, uncovered, for about 20 minutes or until the sweet potatoes are soft.</li></p>
+				<p><li>Purée the soup, either in batches in a blender or food processor or using a hand-held blender. Return the soup to the heat and bring back up to a simmer. Just before serving, stir in the lime juice.</li></p>
+				<p> <li>Serve hot, garnished with coriander.</li>
+				
+			</div>
+		</div>
+		
+		<hr />
+		<div class="row padding" id="two">
+			<div class="col-md-6">
+			
+			
+				<h2 class="text-center">Curried eggplant with tomatoes and Basil</h2>
+				<p class="text-justify"> </p>
+				<h3 class="text-center"><br>List of ingredients</h3></br>
+				<li>White basmati rice</li>
+				<li>Onion</li>
+				<li>Pint cherry tomatoes</li>
+				<li>Eggplant</li>
+				<li>Salt & black pepper</li>
+				<li>Curry powder</li>
+				<li>Fresh Basil</li>
+				<li>Low fat yoghurt</li>
+				
+				<h3 class="text-center">Preparation</h3>
+				
+				<p><li>In a medium saucepan with a tight-fitting lid, combine the rice, 1½ cups water, and ½ teaspoon salt and bring to a boil. Stir the rice once, cover, and reduce heat to low. Simmer for 18 minutes. Remove from heat and let stand, covered, for 5 minutes.</li></p>
+				<p><li>Meanwhile, heat the oil in a saucepan over medium-high heat. Add the onion and cook, stirring occasionally, until softened, 4 to 6 minutes.</li></p>
+				<p><li> Stir in the tomatoes, eggplant, curry powder, 1 teaspoon salt, and ¼ teaspoon black pepper. Cook, stirring, until fragrant, about 2 minutes.</li></p>
+				<p> <li> Add 2 cups water and bring to a boil. Reduce heat and simmer, partially covered, until eggplant is tender, 12 to 15 minutes.</li></p>
+				<p> <li>Stir in the chickpeas and cook just until heated through, about 3 minutes. </li></p>
+				<p> <li> Remove the vegetables from heat and stir in the basil. Fluff the rice with a fork. Serve the vegetables over the rice with yogurt, if using.</li></p>
+				
+				
+			</div>
+			<div class="col-md-6">
+				<img src="egg.jpg" class="img-circle img-responsive" alt="Circular holding image"/>
+			</div>
+		</div>
+		<hr />
+		
+		
+		
+			<footer>
+				&copy; Seagull Squad <br />
+				<a href="#home">Back to top</a>
+			</footer>
+		</div>
+	</div>
+	
+	<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+	<script src="js/bootstrap.js"></script>
+	<script>
+	$(function() {
+  $('a[href*=#]:not([href=#])').click(function() {
+    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+      var target = $(this.hash);
+      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+      if (target.length) {
+        $('html,body').animate({
+          scrollTop: target.offset().top
+        }, 1000);
+        return false;
+      }
+    }
+  });
+});
+	</script>
+	</body>
+</html>

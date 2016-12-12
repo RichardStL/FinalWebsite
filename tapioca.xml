@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+  <description>
+    Coconut Tapioca Porridge
+  </description>
+  <recipe>
+    <title>Coconut Tapioca Porridge</title>
+    <ingredient name="Small-pearl Tapioca" amount="1/4" unit="cup"/>
+    <ingredient name="Coconut milk" amount="1" unit="can"/>
+    <ingredient name="Sugar" amount="1/3" unit="cup"/>
+    <ingredient name="Lemon juice" amount="1 1/2" unit="teaspoons"/>
+    <ingredient name="Toasted coconut flakes" amount="1/2" unit="cup"/>
+
+  
+
+    <preparation>
+      <li>Place tapioca and 2 cups water into a medium heavy-bottomed saucepan and let soak 30 minutes. Add coconut milk and sugar; bring to a boil over medium heat, stirring constantly. Reduce heat to a simmer and cook about 15 minutes, or until tapioca is translucent, stirring frequently to prevent scorching. Stir in lemon juice and garnish with coconut flakes. </li>
+      
+     
+      
+    </preparation>
+    <comment>
+      Any anmount of sugar can be added.
+    </comment>
+    <nutrition calories="220" fat="14" carbohydrates="26" protein="2"/>
+  </recipe>
+</collection>
+http://www.wholefoodsmarket.com/recipe/samoan-coconut-tapioca-porridge

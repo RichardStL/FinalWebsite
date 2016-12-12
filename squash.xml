@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+  <description>
+     Peanut-Squash Stew
+  </description>
+  <recipe>
+    <title>Peanut-Squash Stew</title>
+    <ingredient name="Brown rice" amount="1" unit="cup"/>
+    <ingredient name="Peanut oil" amount="1" unit="tablespoon"/>
+    <ingredient name="Onions(finely chopped)" amount="2" unit="whole"/>
+    <ingredient name="Ginger(grated)" amount="1" unit="tablespoon"/>
+    <ingredient name="Green serano chili(finely chopped)" amount="1" unit="whole"/>
+    <ingredient name="Garlic(finely chopped)" amount="3" unit="whole"/>
+    <ingredient name="Salt" amount="2" unit="teaspoons"/>
+    <ingredient name="Ground cumin" amount="1" unit="teaspoon"/>
+	<ingredient name="Vegetable broth" amount="4" unit="cups"/>
+	<ingredient name="Tomato puree" amount="`2 1/2" unit="cups"/>
+	<ingredient name="Smooth peanut butter" amount="1/2" unit="cup"/>
+  <ingredient name="Squash  (peeled, seeded)" amount="1" unit="inch thick crescents"/>
+
+    <preparation>
+      <li>Heat the oil in a skillet over medium heat. Add the onions and cook about 15 minutes. Add the ginger, chili, garlic, salt, and cumin. Cook 5 minutes more, stirring occasionally. Add the broth, tomato puree, peanut butter, acorn squash, and sugar.</li>
+      <li>Cook over medium heat, covered, until the squash is tender, about 30 minutes.</li>
+      <li>Add the black-eyed peas and heat through. Transfer half the stew to a small saucepan and add the chicken (if using). Sprinkle with the peanuts and serve with the rice. </li>
+     
+     
+      
+    </preparation>
+    <comment>
+      
+    </comment>
+    <nutrition calories="82.9" fat="0.7" carbohydrates="17" protein="3.4"/>
+  </recipe>
+</collection>
+http://www.realsimple.com/food-recipes/browse-all-recipes/peanut-squash-stew

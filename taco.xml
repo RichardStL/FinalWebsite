@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+  <description>
+     Tofu Breakfast Tacos
+  </description>
+  <recipe>
+    <title>Breakfast tacos</title>
+    <ingredient name="Extra firm tofu" amount="400g" unit="packet"/>
+    <ingredient name="Whole wheat flour" amount="1/4" unit="cup"/>
+    <ingredient name="Nutritional yeast" amount="1/4" unit="cup"/>
+    <ingredient name="Onion powder" amount="2" unit="teaspoons"/>
+    <ingredient name="Garlic powder" amount="1/2" unit="teaspoons"/>
+    <ingredient name="Tumeric" amount="1/4" unit="teaspoons"/>
+    <ingredient name="Bragg liquid aminos" amount="2" unit="tablespoons"/>
+    <ingredient name="Corn tortillas" amount="8" unit="whole"/>
+	<ingredient name="Canola oil" amount="2" unit="tablespoons"/>
+	<ingredient name="Salsa" amount="`1" unit="tablespoons"/>
+	<ingredient name="Onions (chopped)" amount="1" unit="whole"/>
+  
+
+    <preparation>
+      <li>Drain tofu and place the block on a plate. Cover with another plate and weight the top with a food can or other object of about 1 pound. Let stand 20 to 30 minutes to extract excess liquid. Pour off liquid. Crumble tofu and place it in a bowl. Sprinkle with flour, yeast, onion powder, garlic powder and turmeric and toss. Sprinkle with liquid aminos and toss again. </li>
+      <li>Heat a large cast-iron skillet or nonstick pan over medium heat until hot. Add tofu mixture and cook, stirring and scraping the bottom of the pan frequently with a spatula to prevent sticking, until tofu is browned and crisp in places. Serve with the warmed tortillas, salsa and toppings of choice and let diners assemble their own tacos. </li>
+      
+     
+      
+    </preparation>
+    <comment>
+      Can add any amount of salsa as you please.
+    </comment>
+    <nutrition calories="250" fat="60" carbohydrates="31" protein="17"/>
+  </recipe>
+</collection>
+http://www.wholefoodsmarket.com/recipe/tofu-breakfast-tacos

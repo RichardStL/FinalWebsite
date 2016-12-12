@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+  <description>
+     Sweet Potato Soup
+  </description>
+  <recipe>
+    <title>Sweet Potato Soup</title>
+    <ingredient name="Vegtable Oil" amount="2" unit="teaspoon"/>
+    <ingredient name="Onion (Diced)" amount="1" unit="Whole"/>
+    <ingredient name="Ginger (Finely Chopped)" amount="1" unit="tablespoon"/>
+    <ingredient name="Vegan Thai Red Curry Paste" amount="1" unit="tablespoon"/>
+    <ingredient name="Salt" amount="1" unit="teaspoon"/>
+    <ingredient name="Sweet Potato (Diced)" amount="600" unit="g"/>
+    <ingredient name="Coconut Milk" amount="400" unit="ml"/>
+    <ingredient name="Vegan Stock" amount="1" unit="lr"/>
+    <ingredient name="Lime" amount="1" unit="juice"/>
+    <ingredient name="Coriander (Chopped)" amount="30" unit="g"/>
+
+    <preparation>
+      <li>In a large, heavy-based saucepan, heat the oil over a medium–high heat. Add the onion and ginger and cook, stirring, for about 5 minutes or until soft. </li>
+      <li>Add the curry paste and salt and cook, stirring, for a further minute or so. Add the sweet potatoes, coconut milk and stock and bring to the boil. Reduce the heat to medium and simmer, uncovered, for about 20 minutes or until the sweet potatoes are soft.</li>
+      <li>Purée the soup, either in batches in a blender or food processor or using a hand-held blender. Return the soup to the heat and bring back up to a simmer. Just before serving, stir in the lime juice.</li>
+      <li>Serve hot, garnished with coriander.</li>
+     
+      
+    </preparation>
+    <comment>
+      This Recipe would go well with some home made brown bread
+    </comment>
+    <nutrition calories="129" fat="3" carbohydrates="22" protein="5"/>
+  </recipe>
+</collection>
+https://www.vegansociety.com/resources/recipes/starters-snacks-and-sides/sweet-potato-soup

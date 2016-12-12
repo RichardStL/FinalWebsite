@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+  <description>
+     Curried Eggplant with Tomatoes and Basil
+  </description>
+  <recipe>
+    <title>Curried Eggplant</title>
+    <ingredient name="White basmati rice" amount="1" unit="cup"/>
+    <ingredient name="Onion (chopped)" amount="1" unit="Whole"/>
+    <ingredient name="Pint cherry tomatoes (halved)" amount="2" unit="whole"/>
+    <ingredient name="Eggplant" amount="1" unit="whole"/>
+    <ingredient name="Salt & black pepper" amount="1" unit="teaspoon"/>
+    <ingredient name="Curry powder" amount="1 1/2" unit="teaspoons"/>
+    <ingredient name="Fresh Basil" amount="1 1/2" unit="cups"/>
+    <ingredient name="Low fat yoghurt" amount="1/4" unit="cup"/>
+  
+
+    <preparation>
+      <li>In a medium saucepan with a tight-fitting lid, combine the rice, 1½ cups water, and ½ teaspoon salt and bring to a boil. Stir the rice once, cover, and reduce heat to low. Simmer for 18 minutes. Remove from heat and let stand, covered, for 5 minutes.</li>
+      <li>Meanwhile, heat the oil in a saucepan over medium-high heat. Add the onion and cook, stirring occasionally, until softened, 4 to 6 minutes.</li>
+      <li> Stir in the tomatoes, eggplant, curry powder, 1 teaspoon salt, and ¼ teaspoon black pepper. Cook, stirring, until fragrant, about 2 minutes.</li>
+      <li> Add 2 cups water and bring to a boil. Reduce heat and simmer, partially covered, until eggplant is tender, 12 to 15 minutes.</li>
+      <li>Stir in the chickpeas and cook just until heated through, about 3 minutes. </li>
+	  <li> Remove the vegetables from heat and stir in the basil. Fluff the rice with a fork. Serve the vegetables over the rice with yogurt, if using.</li>
+
+     
+      
+    </preparation>
+    <comment>
+      Depending on how much heat you like you can chance the amounto f curry powder to taste.
+    </comment>
+    <nutrition calories="339" fat="5" carbohydrates="71" protein="9"/>
+  </recipe>
+</collection>
+http://www.realsimple.com/food-recipes/recipe-collections-favorites/healthy-meals/easy-vegan-recipes/ad?slide=12
